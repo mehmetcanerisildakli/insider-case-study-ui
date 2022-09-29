@@ -1,0 +1,12 @@
+<suite name="testSuite">
+    <listeners>
+        <listener class-name="common.Listener"/>
+    </listeners>
+    <tests name="insiderTests">
+        <test name="insiderCase">
+            <classes>
+                <class name="tests.Insider"> </class>
+            </classes>
+        </test>
+    </tests>
+</suite>
