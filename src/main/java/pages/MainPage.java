@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 public class MainPage {
 
     Action action = new Action();
-    String mainPageTitle = "Insider personalization engine for seamless customer experiences";
+    String mainPageTitle = "#1 Leader in Individualized, Cross-Channel CX — Insider";
 
     private final By moreMenuButton = By.xpath("//a[@id='mega-menu-1' and contains(.,'More')]");
     private final By dropdownMenu = By.xpath("//div[@class='dropdown-menu show']");
